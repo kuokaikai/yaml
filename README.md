@@ -1,0 +1,2 @@
+# yaml
+all .yaml
